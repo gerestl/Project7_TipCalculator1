@@ -1,0 +1,7 @@
+#Wed Aug 02 20:50:11 PDT 2017
+base.0=C\:\\Users\\geres\\AndroidStudioProjects\\Project7_TipCalculator1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7b623a8680b94a014f80b3929d4a192b392eb5c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\geres\\AndroidStudioProjects\\Project7_TipCalculator1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8ebd678ad0c03d4c3c5db042bbad3ba960686f8c\\classes.dex
+base.1=C\:\\Users\\geres\\AndroidStudioProjects\\Project7_TipCalculator1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8ebd678ad0c03d4c3c5db042bbad3ba960686f8c
+file.0=C\:\\Users\\geres\\AndroidStudioProjects\\Project7_TipCalculator1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7b623a8680b94a014f80b3929d4a192b392eb5c\\classes.dex
